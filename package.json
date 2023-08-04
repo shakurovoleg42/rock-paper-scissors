@@ -16,5 +16,13 @@
     "game"
   ],
   "author": "Oleg Shakurov",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shakurovoleg42/rock-paper-scissors.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shakurovoleg42/rock-paper-scissors/issues"
+  },
+  "homepage": "https://github.com/shakurovoleg42/rock-paper-scissors#readme"
 }
