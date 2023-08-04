@@ -38,7 +38,7 @@ class Game {
         const userMove = await this.getUserMove();
 
         if (userMove === 0) {
-            console.log("Exiting the game.");
+            console.log("Thanks for watching, Pavel Lebedev:)");
             this.rl.close();
             process.exit(0);
         } else {
