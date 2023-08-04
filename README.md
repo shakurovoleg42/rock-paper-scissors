@@ -13,5 +13,9 @@
 ```
  node index.js "passing an odd number >=3 non-repeating lines" (without quotes).
 ```
+For example: 
+```
+node index.js rock paper scissors lizard Spock
+```
 
 Thank you for your attention, Pavel Lebedev!✌️<h1>
