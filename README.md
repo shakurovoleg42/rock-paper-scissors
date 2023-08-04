@@ -2,6 +2,7 @@
 💎-📄-✂️ for practice with itransition❤️
 
 <h1>The game is developed in pure Javascript.
+  
 1. First you need to install packages: 
   
   ```
